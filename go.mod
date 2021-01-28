@@ -1,4 +1,4 @@
-module github.com/ctrl-cmd/gobuild
+module github.com/ctrliq/gobuild
 
 go 1.14
 
